@@ -1,4 +1,4 @@
-# Adult Demographics Analysis
+# Income Demographics Analysis
 
 **Introduction**
 
@@ -54,3 +54,6 @@ Examining the relationship between gender and salary revealed insights into inco
 
 ### Categorical Conversion
 To enhance categorical analysis, the 'workclass' column was converted to a categorical datatype.
+
+### Building Machine Learning Models
+
